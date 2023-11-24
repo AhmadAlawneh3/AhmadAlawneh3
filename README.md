@@ -13,7 +13,7 @@ Self learner.</h3>
 - <b> Get eJPT certificate. </b>
 - <b> Learn more about web application penetration testing. </b>
 - <b> Get eWPT certificate. </b>
-- <b> Learn about docker. </b>
+- <b> Dive deeper into docker. </b>
 - <b> Improve my skills in python. </b>
 
 <h2>Projects</h2>
