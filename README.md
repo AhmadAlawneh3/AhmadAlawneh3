@@ -5,7 +5,7 @@ Self learner.</h3>
 
 <h2>Certifications</h2>
 
-- <b>Web Fundamentals Learning Path, TryHackMe</b>
+- <b>[Web Fundamentals Learning Path, TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LO0IFJ4FUE.png)</b>
 - <b>Jr Penetration Tester Learning Path, TryHackMe</b>
 
 <h2>Goals</h2>
@@ -22,6 +22,16 @@ Self learner.</h3>
 - <b> [Gym web app](https://github.com/AhmadAlawneh3/Gym-web-app) </b>
 - <b> Scanner. </b>
 - <b> Password Generator. </b>
+
+<h2>Skills</h2>
+
+- Penetration Testing
+- linux
+- Python
+- Networking
+- HTML/CSS/JavaScript
+- SQL
+- PHP
 
 <h2>Learning sources</h2>
 
