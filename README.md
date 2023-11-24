@@ -10,6 +10,7 @@ Self learner.</h3>
 
 <h2>Goals</h2>
 
+- <b> Side projects <b>
 - <b> Get eJPT certificate. </b>
 - <b> Learn more about web application penetration testing. </b>
 - <b> Get eWPT certificate. </b>
