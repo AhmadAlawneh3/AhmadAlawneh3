@@ -16,7 +16,7 @@ Self learner.</h3>
   <br>
   <img src="https://www.hackthebox.com/badge/image/1109720" >
   ![tryhackme stats](https://raw.githubusercontent.com/AhmadAlawneh3/AhmadAlawneh3/main/assets/thm_propic.png)
-  [![p4p1's tryhackme stats](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/thm_propic.png)][tryhackme]
+  ![p4p1's tryhackme stats](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/thm_propic.png)
 </div>
 <h2>Certifications</h2>
 
