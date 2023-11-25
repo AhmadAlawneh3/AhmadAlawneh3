@@ -15,7 +15,7 @@ Self learner.</h3>
   <br>
   <br>
   <img src="https://www.hackthebox.com/badge/image/1109720" >
-  <script src="https://tryhackme.com/badge/1472507"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/4L4WN3.H4CK.png" alt="TryHackMe">
 </div>
 <h2>Certifications</h2>
 
