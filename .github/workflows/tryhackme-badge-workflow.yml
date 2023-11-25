@@ -15,13 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      # Add the untracked file
-      - name: Add untracked file
-        run: |
-          git add assets/thm_propic.png
-          git config --global user.email "a.3alawneh@gmail.com"
-          git config --global user.name "AhmadAlawneh3"
-          git commit -m "Add thm_propic.png to assets directory"
+      
 
       # Update the TryHackMe badge
       - name: Update TryHackMe badge
@@ -29,7 +23,15 @@ jobs:
         with:
           username: "4L4WN3.H4CK"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
+          
+      # Add the untracked file
+      - name: Add untracked file
+        run: |
+          git add assets/thm_propic.png
+          git config --global user.email "a.3alawneh@gmail.com"
+          git config --global user.name "AhmadAlawneh3"
+          git commit -m "Add thm_propic.png to assets directory"
+          
       # Push the changes back to the repository
       - name: Push changes
         run: git push
