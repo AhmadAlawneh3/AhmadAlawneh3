@@ -7,7 +7,7 @@ Self learner.</h3>
     <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/linkedin.png" width="32px" style="max-width: 100%;">
   </a>
   <a href="https://app.hackthebox.com/users/1109720" style="text-decoration: none;">
-    <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/HTB.png" width="35px" style="max-width: 100%;">
+    <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/HTB.png" width="35px" style="max-width: 100%; margin: 40px;">
   </a>
   <a href="https://tryhackme.com/p/4L4WN3.H4CK"style="text-decoration: none;">
     <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/THM.png" width="35px" style="max-width: 100%;">
