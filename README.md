@@ -1,11 +1,3 @@
-<head>
-    <style>
-      a{
-        color: inherit;
-        text-decoration: none;}
-    </style>
-</head>
-
 <h1>Hi, I'm Ahmad Alawneh!👋</h1>
 <h3>Dedicated and disciplined third year Cyber Security student.
 <br>Passtionate about security and programming.<br>
@@ -14,9 +6,9 @@ Self learner.</h3>
   <a href="https://www.linkedin.com/in/ahmad-alawneh-81440952/" style="text-decoration: none;" >
     <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/LinkedIn_icon.svg.png" width="32px" style="max-width: 100%;">
   </a>
-  <a href="https://app.hackthebox.com/users/1109720" style="text-decoration: none;">
-    <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/HTB.png" width="35px" style="max-width: 100%;">
-  </a>
+  <!-- <a href="https://app.hackthebox.com/users/1109720" style="text-decoration: none;"> -->
+    [<img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/HTB.png" width="35px" style="max-width: 100%;">](https://app.hackthebox.com/users/1109720)
+  <!-- </a> -->
   <a href="https://tryhackme.com/p/4L4WN3.H4CK"style="text-decoration: none;">
     <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/THM.png" width="35px" style="max-width: 100%;">
   </a>
