@@ -12,7 +12,7 @@
 Self learner.</h3>
 <div align="center" dir="auto">
   <a href="https://www.linkedin.com/in/ahmad-alawneh-81440952/" style="text-decoration: none;" >
-    <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/LinkedIn_icon.svg.png" width="32px" style="max-width: 100%;">
+    <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/linkedin.png" width="32px" style="max-width: 100%;">
   </a>
   <a href="https://app.hackthebox.com/users/1109720" style="text-decoration: none;">
     <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/HTB.png" width="35px" style="max-width: 100%;">
