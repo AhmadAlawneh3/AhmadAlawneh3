@@ -33,5 +33,5 @@ jobs:
           git commit -m "Add thm_propic.png to assets directory"
           
       # Push the changes back to the repository
-      - name: Push changes
-        run: git push
+      #- name: Push changes
+      #  run: git push
