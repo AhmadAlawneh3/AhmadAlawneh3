@@ -6,7 +6,7 @@ Self learner.</h3>
 <a href="https://www.linkedin.com/in/ahmad-alawneh-81440952/" >
   <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/LinkedIn_icon.svg.png" width="32px" style="max-width: 100%;">
 </a>
-<a style="color: transparent;" href="https://app.hackthebox.com/users/1109720" >
+<a style="color: inherit;" href="https://app.hackthebox.com/users/1109720" >
   <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/HTB.png" width="35px" style="max-width: 100%;">
 </a>
 <a href="https://tryhackme.com/p/4L4WN3.H4CK">
