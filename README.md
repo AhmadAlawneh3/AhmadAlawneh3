@@ -15,7 +15,11 @@ Self learner.</h3>
   <br>
   <br>
   <img src="https://www.hackthebox.com/badge/image/1109720" >
+<<<<<<< Updated upstream
   ![tryhackme stats](https://raw.githubusercontent.com/AhmadAlawneh3/AhmadAlawneh3/main/assets/thm_propic.png)
+=======
+  <script src="https://tryhackme.com/badge/1472507"></script>
+>>>>>>> Stashed changes
 </div>
 <h2>Certifications</h2>
 
