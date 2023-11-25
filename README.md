@@ -2,7 +2,20 @@
 <h3>Dedicated and disciplined third year Cyber Security student.
 <br>Passtionate about security and programming.<br>
 Self learner.</h3>
-<img src="https://www.hackthebox.com/badge/image/1109720"> 
+<div align="center" dir="auto">
+<a href="https://www.linkedin.com/in/ahmad-alawneh-81440952/" >
+  <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/LinkedIn_icon.svg.png" width="32px" style="max-width: 100%;">
+</a>
+<a style="color: transparent;" href="https://app.hackthebox.com/users/1109720" >
+  <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/HTB.png" width="35px" style="max-width: 100%;">
+</a>
+<a href="https://tryhackme.com/p/4L4WN3.H4CK">
+  <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/THM.png" width="35px" style="max-width: 100%;">
+</a>
+<br>
+<br>
+<img src="https://www.hackthebox.com/badge/image/1109720" > 
+</div>
 <h2>Certifications</h2>
 
 - <b>[Web Fundamentals Learning Path, TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LO0IFJ4FUE.png)</b>
