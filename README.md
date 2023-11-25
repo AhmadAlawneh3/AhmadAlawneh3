@@ -37,6 +37,8 @@ Self learner.</h3>
 
 - [TryHackMe](https://tryhackme.com/p/4L4WN3.H4CK)
 - [HackTheBox](https://app.hackthebox.com/users/1109720)
+- PortSwigger
+- RootMe
 
 <h2>Extra-curricular activities</h2>
 
