@@ -1,11 +1,3 @@
-<head>
-    <style>
-      a{
-        color: inherit;
-        text-decoration: none;}
-    </style>
-</head>
-
 <h1>Hi, I'm Ahmad Alawneh!👋</h1>
 <h3>Dedicated and disciplined third year Cyber Security student.
 <br>Passtionate about security and programming.<br>
