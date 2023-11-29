@@ -20,7 +20,7 @@ Self learner.</h3>
 <h2>Certifications</h2>
 
 - <b>[Web Fundamentals Learning Path, TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LO0IFJ4FUE.png)</b>
-- <b>Jr Penetration Tester Learning Path, TryHackMe</b>
+- <b>[Jr Penetration Tester Learning Path, TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-V8VMWAGG8S.png)</b>
 
 <h2>Goals</h2>
 
