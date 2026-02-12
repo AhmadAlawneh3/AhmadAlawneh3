@@ -1,43 +1,46 @@
-<h1>Hi, I'm Ahmad Alawneh!👋</h1>
-<h3>Dedicated and disciplined fourth year Cyber Security student.
-<br>Passtionate about security and scripting.<br>
-Self learner.</h3>
-<div align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/ahmad-alawneh-81440952/" style="text-decoration: none;" >
-    <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/linkedin.png" width="32px" style="max-width: 100%;">
+<h1>Ahmad Alawneh</h1>
+<h3>Penetration Testing Engineer @ NourNet<br>
+OSCP+ | OSWP | eWPTxv3</h3>
+
+<div align="center">
+  <a href="https://alawneh.app">
+    <img src="https://img.shields.io/badge/Portfolio-alawneh.app-blue?style=flat-square" alt="Portfolio">
   </a>
-  <a href="https://app.hackthebox.com/users/1109720" style="text-decoration: none;">
-    <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/HTB.png" width="35px" style="max-width: 100%; margin: 40px;">
+  <a href="https://www.linkedin.com/in/ahmad-alawneh-81440952/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://tryhackme.com/p/4L4WN3.H4CK"style="text-decoration: none;">
-    <img src="https://github.com/AhmadAlawneh3/AhmadAlawneh3/blob/main/THM.png" width="35px" style="max-width: 100%;">
-  </a>
-  <br>
-  <br>
-  <img src="https://www.hackthebox.com/badge/image/1109720" >
-  <img src="https://tryhackme-badges.s3.amazonaws.com/4L4WN3.H4CK.png" alt="TryHackMe">
+  <br><br>
+  <img src="https://www.hackthebox.com/badge/image/1109720">
 </div>
+
 <h2>Certifications</h2>
 
-- <b>[eJPTv2](https://certs.ine.com/a8eb34d2-e5cc-49fe-bb78-73742a53b6b0)</b>
-- <b>[Web Fundamentals Learning Path, TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LO0IFJ4FUE.png)</b>
-- <b>[Jr Penetration Tester Learning Path, TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-V8VMWAGG8S.png)</b>
+**Offensive Security**
+- OSCP+ - OffSec Certified Professional+
+- OSWP - Offensive Security Wireless Professional
+
+**INE Security**
+- eWPTxv3 - Web Application Penetration Tester eXtreme
+- [eJPTv2](https://certs.ine.com/a8eb34d2-e5cc-49fe-bb78-73742a53b6b0) - Junior Penetration Tester
+
+**TCM Security**
+- Practical Web Hacking
+- Practical API Hacking
+- Practical Bug Bounty
+
+**AWS Academy**
+- Cloud Foundations
+- Cloud Security Foundations
 
 <h2>Projects</h2>
 
-- <b> [Gym web app](https://github.com/AhmadAlawneh3/Gym-web-app) </b>
-- <b> [OOP Project](https://github.com/AhmadAlawneh3/OOP-Project) </b>
-<!--
-**AhmadAlawneh3/AhmadAlawneh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[CTFtunnel](https://github.com/AhmadAlawneh3/CTFtunnel)** - OpenVPN management tool for CTF competitions
+- **[CTF-Challenges](https://github.com/AhmadAlawneh3/CTF-Challenges)** - Custom CTF challenges I've authored
+- **PTNG** - Collaborative penetration testing platform (Flask + React + AWS)
 
-Here are some ideas to get you started:
+<h2>Experience</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Penetration Testing Engineer** — NourNet
+- **Technical Lead** — Cyber Security Club, PSUT
+- **Penetration Testing Intern** — Cryptika
+- **Instructor** — Cyber Security Club, PSUT (3+ years)
